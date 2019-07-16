@@ -1,12 +1,18 @@
 var webpack = require("webpack");
 
 var config = {
+  externals: {
+     moment: 'moment'
+  },
   devtool: 'source-map',
   entry: {
     main: './dev/app.ts'
   },
   resolve: {
-    extensions: ['', '.ts', '.js']
+    extensions: ['', '.ts', '.js'],
+    alias: {
+      'chart.js': 'chart.js/dist/Chart.js'
+    }
   },
   output: {
     filename: 'bundle.js'

@@ -1,6 +1,6 @@
 {
   "name": "angular2-chartjs-luxon",
-  "version": "0.5.2",
+  "version": "0.5.8",
   "description": "Chart.js component for Angular2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

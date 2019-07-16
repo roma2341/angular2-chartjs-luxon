@@ -1,4 +1,3 @@
-import {Chart} from 'chart.js';
 import { NgModule } from '@angular/core';
 import { ChartComponent } from './chart.component';
 import ChartAdapterLuxon from 'chartjs-adapter-luxon';
