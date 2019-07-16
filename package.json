@@ -1,5 +1,5 @@
 {
-  "name": "angular2-chartjs",
+  "name": "angular2-chartjs-luxon",
   "version": "0.5.1",
   "description": "Chart.js component for Angular2",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
     "chart.js": "^2.8.0",
     "chartjs-adapter-luxon": "^0.2.0"
   },
-  "author": "Chen, Yi-Cyuan <emn178@gmail.com>",
+  "author": "Roman zinchuk <zigzag2341@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@angular/common": "8.1.1",
@@ -40,14 +40,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emn178/angular2-chartjs.git"
+    "url": "https://github.com/roma2341/angular2-chartjs-luxon.git"
   },
   "keywords": [
     "chart",
     "angular2"
   ],
-  "homepage": "https://github.com/emn178/angular2-chartjs",
+  "homepage": "https://github.com/roma2341/angular2-chartjs-luxon",
   "bugs": {
-    "url": "https://github.com/emn178/angular2-chartjs/issues"
+    "url": "https://github.com/roma2341/angular2-chartjs-luxon/issues"
   }
 }
