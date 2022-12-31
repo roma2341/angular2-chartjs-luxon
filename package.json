@@ -31,9 +31,9 @@
     "core-js": "^2.4.1",
     "reflect-metadata": "^0.1.8",
     "rxjs": "6.5.2",
-    "ts-loader": "^0.8.2",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.4.5",
-    "webpack": "^1.13.2",
+    "webpack": "^5.75.0",
     "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-server": "^1.16.1",
     "zone.js": "0.9.1"
